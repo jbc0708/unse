@@ -52,6 +52,7 @@ UI_DEFINE = """
                 markup: True
                 multiline: True
                 size_hint: 0.9, 0.9
+                color: 1, 1, 1, 1
                 
 """
 
